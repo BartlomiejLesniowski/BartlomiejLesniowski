@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @BartlomiejLesniowski, but call me Bart or Bartek
 - 👀 I’m interested in Data Analysis, Data Science and Programming
-- 🌱 I’m currently learning Python, Data Analysis and Machine Learning
+- 🌱 I’m currently learning C++, Python, Data Analysis and Machine Learning
 - 📫 How to reach me bart.lesniowski@gmail.com and LinkedIn https://www.linkedin.com/in/bart%C5%82omiej-le%C5%9Bniowski-b992861b9/
 
 
